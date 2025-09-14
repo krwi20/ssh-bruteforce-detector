@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+venv/
+
+# editor/OS
+.DS_Store
+*.swp
+
+# output reports and large logs
+report_ssh_*.txt
+auth_sample.log
+*.log
+*.csv
